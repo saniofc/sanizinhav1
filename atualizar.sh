@@ -2,10 +2,11 @@
 clear
 echo -e "🔄 Verificando atualizações do bot..."
 
-# Corrige o erro de "dubious ownership"
+# Corrige erro de propriedade do Git
 git config --global --add safe.directory "$(pwd)"
 
-# Puxa a atualização
-git pull
+# Força o reset pra última versão do GitHub, ignorando alterações locais
+git fetch origin main
+git reset --hard origin/main
 
 echo -e "✅ Bot atualizado com sucesso!"
