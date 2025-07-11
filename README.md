@@ -34,4 +34,4 @@ termux-setup-storage
 ```
 ### 4° Comando
 ```bash
-git clone https://github.com/saniofc/SanizinhaBot && cd SanizinhaBot && npm install --no-bin-links && bash sani.sh
+git clone https://github.com/saniofc/sanizinhav1 && cd sanibot && npm install --no-bin-links && bash sani.sh
