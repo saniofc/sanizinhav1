@@ -1,0 +1,8 @@
+node_modules
+.env
+session.json
+auth_info.json
+tokens/
+tmp/
+*.log
+*.zip
