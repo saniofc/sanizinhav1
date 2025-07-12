@@ -5,7 +5,7 @@
 ![VERSÃO](https://img.shields.io/badge/VERSÃO-1.0.0-orange?style=for-the-badge)
 
 <p align="center">
-  <img src="[[https://files.catbox.moe/z68a00.jpg]()]()" width="600"/>
+  <img src="https://files.catbox.moe/z68a00.jpg" width="600"/>
 </p>
 
 ---
